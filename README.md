@@ -30,4 +30,4 @@ If you have any questions or problems, please feel free to open an issue on the 
 
 ## Contributors
 
-This project was created by [Your Name](https://github.com/Bhargav108).
+This project was created by [Bhargav](https://github.com/Bhargav108).
